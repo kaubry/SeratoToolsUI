@@ -1,0 +1,5 @@
+.idea
+libs/vendor
+
+assets/node_modules
+assets/build
